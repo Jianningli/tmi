@@ -1,7 +1,8 @@
 
-#title:
+# title:
 A Baseline Approach for AutoImplant: the MICCAI 2020 Cranial Implant Design Challenge
-#codes:
+
+# codes:
 https://github.com/Jianningli/autoimplant
 
 ```
