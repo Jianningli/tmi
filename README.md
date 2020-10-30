@@ -30,3 +30,17 @@ paper:
   publisher={Springer}
 }
 ```
+title: Cranial Defect Reconstruction using Cascaded CNN with Alignment
+
+code: https://github.com/OldaKodym/BUT_autoimplant_public
+
+```
+@incollection{A5,
+  title={Cranial Defect Reconstruction using Cascaded CNN with Alignment},
+  author={Oldřich Kodym, Michal Španěl, and Adam Herout},
+  booktitle={Towards the Automatization of Cranial Implant Design in Cranioplasty},
+  pages={},
+  year={2020},
+  publisher={Springer}
+}
+```
