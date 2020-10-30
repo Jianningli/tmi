@@ -14,3 +14,19 @@ code: https://github.com/Jianningli/autoimplant
   publisher={Springer}
 }
 ```
+title: Deep Learning Using Augmentation via Registration: 1st Place Solution to the AutoImplant 2020 Challenge
+
+code: https://github.com/ellisdg/3DUnetCNN
+
+paper: 
+
+```
+@incollection{A4,
+  title={Deep Learning Using Augmentation via Registration: 1st Place Solution to the AutoImplant 2020 Challenge},
+  author={David G. Ellis and Michele R. Aizenberg},
+  booktitle={Towards the Automatization of Cranial Implant Design in Cranioplasty},
+  pages={},
+  year={2020},
+  publisher={Springer}
+}
+```
