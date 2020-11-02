@@ -1,6 +1,6 @@
 
 
-title: A Baseline Approach for AutoImplant: the MICCAI 2020 Cranial Implant Design Challenge
+> title: A Baseline Approach for AutoImplant: the MICCAI 2020 Cranial Implant Design Challenge
 
 code: https://github.com/Jianningli/autoimplant
 
@@ -14,7 +14,7 @@ code: https://github.com/Jianningli/autoimplant
   publisher={Springer}
 }
 ```
-title: Deep Learning Using Augmentation via Registration: 1st Place Solution to the AutoImplant 2020 Challenge
+> title: Deep Learning Using Augmentation via Registration: 1st Place Solution to the AutoImplant 2020 Challenge
 
 code: https://github.com/ellisdg/3DUnetCNN
 
@@ -31,7 +31,7 @@ paper:
   publisher={Springer}
 }
 ```
-title: Cranial Defect Reconstruction using Cascaded CNN with Alignment
+> title: Cranial Defect Reconstruction using Cascaded CNN with Alignment
 
 code: https://github.com/OldaKodym/BUT_autoimplant_public
 
