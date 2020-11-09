@@ -43,7 +43,8 @@
 ```
 @incollection{A7,
   title={Cranial Implant Prediction using Low-Resolution 3D Shape Completion and High-Resolution 2D Refinement},
-  author={Amirhossein Bayat, Suprosanna Shit, Adrian Kilian, J¨urgen T. Liechtenstein, Jan S. Kirschke, and Bjoern H. Menze},
+  author={Amirhossein Bayat, Suprosanna Shit, Adrian Kilian, J¨urgen T. Liechtenstein, Jan S. Kirschke,
+  and Bjoern H. Menze},
   booktitle={Towards the Automatization of Cranial Implant Design in Cranioplasty},
   pages={},
   year={2020},
