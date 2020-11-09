@@ -12,7 +12,7 @@
   publisher={Springer}
 }
 ```
-> Deep Learning Using Augmentation via Registration: 1st Place Solution to the AutoImplant 2020 Challenge.[code](https://github.com/ellisdg/3DUnetCNN)
+> Deep Learning Using Augmentation via Registration: 1st Place Solution to the AutoImplant 2020 Challenge. [[code](https://github.com/ellisdg/3DUnetCNN)]
 ```
 @incollection{A4,
   title={Deep Learning Using Augmentation via Registration: 1st Place Solution
@@ -24,7 +24,7 @@
   publisher={Springer}
 }
 ```
-> Cranial Defect Reconstruction using Cascaded CNN with Alignment. [code](https://github.com/OldaKodym/BUT_autoimplant_public)
+> Cranial Defect Reconstruction using Cascaded CNN with Alignment. [[code](https://github.com/OldaKodym/BUT_autoimplant_public)]
 
 ```
 @incollection{A5,
