@@ -38,7 +38,8 @@
 ```
 
 
-> Cranial Implant Prediction using Low-Resolution 3D Shape Completion and High-Resolution 2D Refinement [[paper](https://arxiv.org/abs/2009.10769), [code](https://github.com/mlentwicklung/autoimplant)] 
+> Cranial Implant Prediction using Low-Resolution 3D Shape Completion and High-Resolution 
+2D Refinement [[paper](https://arxiv.org/abs/2009.10769), [code](https://github.com/mlentwicklung/autoimplant)] 
 
 ```
 @incollection{A7,
