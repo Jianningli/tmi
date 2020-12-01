@@ -12,7 +12,7 @@
   publisher={Springer}
 }
 ```
-> Deep Learning Using Augmentation via Registration: 1st Place Solution to the AutoImplant 2020 Challenge. [paper](https://zenodo.org/record/4270278#.X8YX92hKg-U), [code](https://github.com/ellisdg/3DUnetCNN/tree/master/examples/autoimplant2020)
+> Deep Learning Using Augmentation via Registration: 1st Place Solution to the AutoImplant 2020 Challenge. [paper](), [code](https://github.com/ellisdg/3DUnetCNN/tree/master/examples/autoimplant2020)
 ```
 @incollection{A4,
   title={Deep Learning Using Augmentation via Registration: 1st Place Solution
