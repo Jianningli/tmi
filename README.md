@@ -14,7 +14,7 @@
 ```
 > Deep Learning Using Augmentation via Registration: 1st Place Solution to the AutoImplant 2020 Challenge. paper, [code](https://github.com/ellisdg/3DUnetCNN/tree/master/examples/autoimplant2020)
 ```
-@incollection{A4,
+@incollection{david2020deep,
   title={Deep Learning Using Augmentation via Registration: 1st Place Solution
   to the AutoImplant 2020 Challenge},
   author={David G. Ellis and Michele R. Aizenberg},
@@ -27,7 +27,7 @@
 > Cranial Defect Reconstruction using Cascaded CNN with Alignment. [paper, [code](https://github.com/OldaKodym/BUT_autoimplant_public)]
 
 ```
-@incollection{A5,
+@incollection{kodym2020cranial,
   title={Cranial Defect Reconstruction using Cascaded CNN with Alignment},
   author={Oldřich Kodym, Michal Španěl, and Adam Herout},
   booktitle={Towards the Automatization of Cranial Implant Design in Cranioplasty},
@@ -42,7 +42,7 @@
 2D Refinement [[paper](https://arxiv.org/abs/2009.10769), [code](https://github.com/mlentwicklung/autoimplant)] 
 
 ```
-@incollection{A7,
+@incollection{bayat2020cranial,
   title={Cranial Implant Prediction using Low-Resolution 3D Shape Completion and High-Resolution 2D Refinement},
   author={Amirhossein Bayat, Suprosanna Shit, Adrian Kilian, J¨urgen T. Liechtenstein, Jan S. Kirschke,
   and Bjoern H. Menze},
