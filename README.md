@@ -24,7 +24,7 @@
   publisher={Springer}
 }
 ```
-> Cranial Defect Reconstruction using Cascaded CNN with Alignment. [paper, [code](https://github.com/OldaKodym/BUT_autoimplant_public)]
+> Cranial Defect Reconstruction using Cascaded CNN with Alignment. [[paper](https://link.springer.com/chapter/10.1007/978-3-030-64327-0_7), [code](https://github.com/OldaKodym/BUT_autoimplant_public)]
 
 ```
 @incollection{kodym2020cranial,
