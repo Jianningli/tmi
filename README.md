@@ -1,8 +1,6 @@
 
 
-> A Baseline Approach for AutoImplant: the MICCAI 2020 Cranial Implant Design Challenge. 
-
-[[paper](https://link.springer.com/chapter/10.1007/978-3-030-60946-7_8), [code](https://github.com/Jianningli/autoimplant)]
+> A Baseline Approach for AutoImplant: the MICCAI 2020 Cranial Implant Design Challenge.  [[paper](https://link.springer.com/chapter/10.1007/978-3-030-60946-7_8), [code](https://github.com/Jianningli/autoimplant)]
 
 ```
 @incollection{li2020baseline,
@@ -14,9 +12,7 @@
   publisher={Springer}
 }
 ```
-> Deep Learning Using Augmentation via Registration: 1st Place Solution to the AutoImplant 2020 Challenge. 
-
-[[paper](https://link.springer.com/chapter/10.1007/978-3-030-64327-0_6), [code](https://github.com/ellisdg/3DUnetCNN/tree/master/examples/autoimplant2020), [dataset](https://zenodo.org/record/4270278#.X8zhhNj0lPY)]
+> Deep Learning Using Augmentation via Registration: 1st Place Solution to the AutoImplant 2020 Challenge. [[paper](https://link.springer.com/chapter/10.1007/978-3-030-64327-0_6), [code](https://github.com/ellisdg/3DUnetCNN/tree/master/examples/autoimplant2020), [dataset](https://zenodo.org/record/4270278#.X8zhhNj0lPY)]
 ```
 @incollection{david2020deep,
   title={Deep Learning Using Augmentation via Registration: 1st Place Solution
@@ -28,9 +24,7 @@
   publisher={Springer}
 }
 ```
-> Cranial Defect Reconstruction using Cascaded CNN with Alignment. 
-
-[[paper](https://link.springer.com/chapter/10.1007/978-3-030-64327-0_7), [code](https://github.com/OldaKodym/BUT_autoimplant_public)]
+> Cranial Defect Reconstruction using Cascaded CNN with Alignment. [[paper](https://link.springer.com/chapter/10.1007/978-3-030-64327-0_7), [code](https://github.com/OldaKodym/BUT_autoimplant_public)]
 
 ```
 @incollection{kodym2020cranial,
@@ -45,7 +39,7 @@
 
 
 > Cranial Implant Prediction using Low-Resolution 3D Shape Completion and High-Resolution 
-2D Refinement [[paper](https://arxiv.org/abs/2009.10769), [code](https://github.com/mlentwicklung/autoimplant)] 
+2D Refinement [[paper](https://link.springer.com/chapter/10.1007/978-3-030-64327-0_9), [code](https://github.com/mlentwicklung/autoimplant)] 
 
 ```
 @incollection{bayat2020cranial,
