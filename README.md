@@ -1,8 +1,8 @@
 **Towards the Automatization of Cranial Implant Design in Cranioplasty:** First Challenge, AutoImplant 2020, Held in Conjunction with MICCAI 2020, Lima, Peru, October 8, 2020, Proceedings. Editors:	Jianning Li, Jan Egger. Publisher	Springer International Publishing, 2020. ISBN: 978-3-030-64326-3 [[Springer Link](https://link.springer.com/book/10.1007%2F978-3-030-64327-0)].
 
-| title | code | dataset |
+| title | code | dataset | cite |
 | --------------- | --------------- | --------------- |
-| [A baseline approach for autoimplant: the miccai 2020 cranial implant design challenge](https://link.springer.com/chapter/10.1007/978-3-030-60946-7_8) | - | - |
+| [A baseline approach for autoimplant: the miccai 2020 cranial implant design challenge](https://link.springer.com/chapter/10.1007/978-3-030-60946-7_8) | [github](https://github.com/Jianningli/autoimplant)| - | [BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:mZ9P13sIjJsJ:scholar.google.com/&output=citation&scisdr=CgUAZaXmEL7MwTAifBY:AAGBfm0AAAAAX84nZBYwf3-N9se3JKm96z2vl5iNpt57&scisig=AAGBfm0AAAAAX84nZF_7Aw3A23UURA-tlfm6VIcDKzSo&scisf=4&ct=citation&cd=-1&hl=en)|
 | Row 2 Column 1 | Row 2 Column 2 | Row 2 Column 3 |
 
 
