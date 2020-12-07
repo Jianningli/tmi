@@ -12,6 +12,27 @@
   publisher={Springer}
 }
 ```
+
+> Patient Specific Implants (PSI): Cranioplasty in the Neurosurgical Clinical Routine.  [[paper](https://link.springer.com/chapter/10.1007/978-3-030-64327-0_1)]
+
+```
+@incollection{psiclinical,
+  title={Patient Specific Implants (PSI): Cranioplasty in the Neurosurgical Clinical Routine},
+  author={Gord von Campe and Karin Pistracher},
+  booktitle={Towards the Automatization of Cranial Implant Design in Cranioplasty},
+  pages={1--9},
+  year={2020},
+  publisher={Springer}
+}
+```
+
+
+
+
+
+
+
+
 > Deep Learning Using Augmentation via Registration: 1st Place Solution to the AutoImplant 2020 Challenge. [[paper](https://link.springer.com/chapter/10.1007/978-3-030-64327-0_6), [code](https://github.com/ellisdg/3DUnetCNN/tree/master/examples/autoimplant2020), [dataset](https://zenodo.org/record/4270278#.X8zhhNj0lPY)]
 ```
 @incollection{david2020deep,
@@ -52,3 +73,6 @@
   publisher={Springer}
 }
 ```
+
+
+
