@@ -1,6 +1,3 @@
-**Towards the Automatization of Cranial Implant Design in Cranioplasty:** First Challenge, AutoImplant 2020, Held in Conjunction with MICCAI 2020, Lima, Peru, October 8, 2020, Proceedings. Editors:	Jianning Li, Jan Egger. Publisher	Springer International Publishing, 2020. ISBN: 978-3-030-64326-3 [[Springer Link](https://link.springer.com/book/10.1007%2F978-3-030-64327-0)].
-
-
 | Proceedings | Editors | Publisher | Springer Link| Google Book Citation|
 | --------------- | --------------- | --------------- |--------------- |--------------- |
 | Towards the Automatization of Cranial Implant Design in Cranioplasty| Jianning Li and Jan Egger | Springer International Publishing| [Springer Link](https://link.springer.com/book/10.1007%2F978-3-030-64327-0)|[BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:eRfYNqBzW_IJ:scholar.google.com/&output=citation&scisdr=CgXS92vxEIKWnS6UyB4:AAGBfm0AAAAAX9CR0B9eosdFjFBkQMPQ5rofKv5BPK5W&scisig=AAGBfm0AAAAAX9CR0NwPhekmGxjyN-d0iXMSgLaQR1J9&scisf=4&ct=citation&cd=-1&hl=en)|
