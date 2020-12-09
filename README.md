@@ -2,7 +2,7 @@
 
 | title | code | dataset | cite |
 | --------------- | --------------- | --------------- |--------------- |
-| [A baseline approach for autoimplant: the miccai 2020 cranial implant design challenge](https://link.springer.com/chapter/10.1007/978-3-030-60946-7_8) | [github](https://github.com/Jianningli/autoimplant)| - | [BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:mZ9P13sIjJsJ:scholar.google.com/&output=citation&scisdr=CgUAZaXmEL7MwTAifBY:AAGBfm0AAAAAX84nZBYwf3-N9se3JKm96z2vl5iNpt57&scisig=AAGBfm0AAAAAX84nZF_7Aw3A23UURA-tlfm6VIcDKzSo&scisf=4&ct=citation&cd=-1&hl=en)|
+| [A baseline approach for autoimplant: the miccai 2020 cranial implant design challenge](https://link.springer.com/chapter/10.1007/978-3-030-60946-7_8) | [github](https://github.com/Jianningli/autoimplant)| - | [BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:mZ9P13sIjJsJ:scholar.google.com/&output=citation&scisdr=CgXS92vxEJ-CnS6MheM:AAGBfm0AAAAAX9CJneNUrFOVKMuQPSyTppoL70YOqNyb&scisig=AAGBfm0AAAAAX9CJnTx-m5pv-u-kWdR3VJRL7sOR7YVE&scisf=4&ct=citation&cd=-1&hl=en)|
 
 
 
