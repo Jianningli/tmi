@@ -4,6 +4,9 @@
 | --------------- | --------------- | --------------- |--------------- |
 | [A baseline approach for autoimplant: the miccai 2020 cranial implant design challenge](https://link.springer.com/chapter/10.1007/978-3-030-60946-7_8) | [github](https://github.com/Jianningli/autoimplant)| - | [BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:mZ9P13sIjJsJ:scholar.google.com/&output=citation&scisdr=CgXS92vxEJ-CnS6MheM:AAGBfm0AAAAAX9CJneNUrFOVKMuQPSyTppoL70YOqNyb&scisig=AAGBfm0AAAAAX9CJnTx-m5pv-u-kWdR3VJRL7sOR7YVE&scisf=4&ct=citation&cd=-1&hl=en)|
 
+| [Patient Specific Implants (PSI): Cranioplasty in the Neurosurgical Clinical Routine](https://link.springer.com/chapter/10.1007/978-3-030-64327-0_1) | - | - | [BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:FQJ2hiOPi-MJ:scholar.google.com/&output=citation&scisdr=CgXS92vxEJ-CnS6PLqA:AAGBfm0AAAAAX9CKNqDJoVXnIL_DakaODFU-K1Ej3PJc&scisig=AAGBfm0AAAAAX9CKNvWu-O_IJ-kSlXUwk5S6TZetfY_P&scisf=4&ct=citation&cd=-1&hl=en)|
+
+
 
 
 > A Baseline Approach for AutoImplant: the MICCAI 2020 Cranial Implant Design Challenge.  [[paper](https://link.springer.com/chapter/10.1007/978-3-030-60946-7_8), [code](https://github.com/Jianningli/autoimplant)]
