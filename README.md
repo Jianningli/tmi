@@ -1,3 +1,8 @@
+| **Event** | **Venue** | **Organizers** | **Website**|
+| --------------- | --------------- | --------------- |--------------- |--------------- |--------------- |
+| **AutoImplant 2020**|  MICCAI 2020| Jianning Li and Jan Egger et al|https://autoimplant.grand-challenge.org/| 
+
+
 | **Proceedings** | **Editors** | **Publisher** | **Springer Link**| **Citation** | **Google Book** |
 | --------------- | --------------- | --------------- |--------------- |--------------- |--------------- |
 | **Towards the Automatization of Cranial Implant Design in Cranioplasty**| Jianning Li and Jan Egger | Springer International Publishing| [Springer Link](https://link.springer.com/book/10.1007%2F978-3-030-64327-0)|[BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:eRfYNqBzW_IJ:scholar.google.com/&output=citation&scisdr=CgXS92vxEIKWnS6UyB4:AAGBfm0AAAAAX9CR0B9eosdFjFBkQMPQ5rofKv5BPK5W&scisig=AAGBfm0AAAAAX9CR0NwPhekmGxjyN-d0iXMSgLaQR1J9&scisf=4&ct=citation&cd=-1&hl=en)|[Google Book](https://books.google.at/books/about/Towards_the_Automatization_of_Cranial_Im.html?id=KWH5zQEACAAJ&source=kp_book_description&redir_esc=y)|
