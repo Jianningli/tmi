@@ -5,38 +5,9 @@
 | [A baseline approach for autoimplant: the miccai 2020 cranial implant design challenge](https://link.springer.com/chapter/10.1007/978-3-030-60946-7_8) | [github](https://github.com/Jianningli/autoimplant)| - | [BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:mZ9P13sIjJsJ:scholar.google.com/&output=citation&scisdr=CgXS92vxEJ-CnS6MheM:AAGBfm0AAAAAX9CJneNUrFOVKMuQPSyTppoL70YOqNyb&scisig=AAGBfm0AAAAAX9CJnTx-m5pv-u-kWdR3VJRL7sOR7YVE&scisf=4&ct=citation&cd=-1&hl=en)|
 | [Patient Specific Implants (PSI): Cranioplasty in the Neurosurgical Clinical Routine](https://link.springer.com/chapter/10.1007/978-3-030-64327-0_1) | - | - | [BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:FQJ2hiOPi-MJ:scholar.google.com/&output=citation&scisdr=CgXS92vxEJ-CnS6PLqA:AAGBfm0AAAAAX9CKNqDJoVXnIL_DakaODFU-K1Ej3PJc&scisig=AAGBfm0AAAAAX9CKNvWu-O_IJ-kSlXUwk5S6TZetfY_P&scisf=4&ct=citation&cd=-1&hl=en)|
 | [Dataset Descriptor for the AutoImplant Cranial Implant Design Challenge](https://link.springer.com/chapter/10.1007/978-3-030-64327-0_2) | - | - | [BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:SJpjw_XElOIJ:scholar.google.com/&output=citation&scisdr=CgXS92vxEJ-CnS6OUEQ:AAGBfm0AAAAAX9CLSESKjrYS54dTCN9b_W7fGyotGsKh&scisig=AAGBfm0AAAAAX9CLSLPWyelaQJFMRP6fVJyclhR5jS2Q&scisf=4&ct=citation&cd=-1&hl=en)|
+| [Automated Virtual Reconstruction of Large Skull Defects using Statistical Shape Models and Generative Adversarial Networks](https://link.springer.com/chapter/10.1007/978-3-030-64327-0_3) | - | - | [BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:b9Sp3hbaq5QJ:scholar.google.com/&output=citation&scisdr=CgXS92vxEJ-CnS6JDQU:AAGBfm0AAAAAX9CMFQVcgC2z628duptnzqI-7BsIOOJb&scisig=AAGBfm0AAAAAX9CMFbpUb_bWm5Ob6DULY1Mw3x8JSfqc&scisf=4&ct=citation&cd=-1&hl=en)|
 
-
-
-> A Baseline Approach for AutoImplant: the MICCAI 2020 Cranial Implant Design Challenge.  [[paper](https://link.springer.com/chapter/10.1007/978-3-030-60946-7_8), [code](https://github.com/Jianningli/autoimplant)]
-
-```
-@incollection{li2020baseline,
-  title={A baseline approach for autoimplant: the miccai 2020 cranial implant design challenge},
-  author={Li, Jianning and Pepe, Antonio and Gsaxner, Christina and von Campe, Gord and Egger, Jan},
-  booktitle={Multimodal Learning for Clinical Decision Support and Clinical Image-Based Procedures},
-  pages={75--84},
-  year={2020},
-  publisher={Springer}
-}
-```
-
-> Patient Specific Implants (PSI): Cranioplasty in the Neurosurgical Clinical Routine.  [[paper](https://link.springer.com/chapter/10.1007/978-3-030-64327-0_1)]
-
-```
-@incollection{psiclinical,
-  title={Patient Specific Implants (PSI): Cranioplasty in the Neurosurgical Clinical Routine},
-  author={Gord von Campe and Karin Pistracher},
-  booktitle={Towards the Automatization of Cranial Implant Design in Cranioplasty},
-  pages={1--9},
-  year={2020},
-  publisher={Springer}
-}
-```
-
-
-
-
+| [Cranial Implant Design Through Multiaxial Slice Inpainting Using Deep Learning](https://link.springer.com/chapter/10.1007/978-3-030-64327-0_4) | - | - | [BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:D4Y1CrBoS-gJ:scholar.google.com/&output=citation&scisdr=CgXS92vxEJ-CnS6JQ68:AAGBfm0AAAAAX9CMW69hvrsxmGzD2PlzUUGoSM94zE2r&scisig=AAGBfm0AAAAAX9CMW-Y3t4XDmHDc98mshqtZWyl-XQ8-&scisf=4&ct=citation&cd=-1&hl=en)|
 
 
 
