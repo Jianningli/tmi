@@ -1,6 +1,6 @@
 | **Event** | **Venue** | **Organizers** | **Website**|
 | --------------- | --------------- | --------------- |--------------- |
-| **AutoImplant 2020**|  MICCAI 2020| Jianning Li and Jan Egger et al|https://autoimplant.grand-challenge.org/| 
+| **AutoImplant 2020**|  MICCAI 2020| Jianning Li and Jan Egger et al.|https://autoimplant.grand-challenge.org/| 
 
 
 | **Proceedings** | **Editors** | **Publisher** | **Springer Link**| **Citation** | **Google Book** |
