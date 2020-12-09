@@ -11,23 +11,11 @@
 | [Deep Learning Using Augmentation via Registration: 1st Place Solution to the AutoImplant 2020 Challenge](https://link.springer.com/chapter/10.1007/978-3-030-64327-0_6) | [github](https://github.com/ellisdg/3DUnetCNN/tree/master/examples/autoimplant2020) | [dataset](https://zenodo.org/record/4270278#.X8zhhNj0lPY)| [BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:Qhq7n16_1psJ:scholar.google.com/&output=citation&scisdr=CgXS92vxEIKWnS6IctA:AAGBfm0AAAAAX9CNatF4u-d9SoilvriK3R-X-zJ2l4Lq&scisig=AAGBfm0AAAAAX9CNaphPfnOV5MTmowHjLkD7RVIYgT5H&scisf=4&ct=citation&cd=-1&hl=en)|
 | [Cranial Defect Reconstruction using Cascaded CNN with Alignment](https://link.springer.com/chapter/10.1007/978-3-030-64327-0_7) | [github](https://github.com/OldaKodym/BUT_autoimplant_public) | - | [BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:DRUO0Xmn0VIJ:scholar.google.com/&output=citation&scisdr=CgXS92vxEIKWnS6LM5c:AAGBfm0AAAAAX9COK5ZKfcF8RjkPC9gi1gSM5tYzPvbi&scisig=AAGBfm0AAAAAX9COK6DpxDcy4dSBbjsWNhhJ0B6ZhKgz&scisf=4&ct=citation&cd=-1&hl=en)|
 | [Shape Completion by U-Net: An Approach to the AutoImplant MICCAI Cranial Implant Design Challenge](https://link.springer.com/chapter/10.1007/978-3-030-64327-0_8) | - | - | [BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:zZCoCzfhiisJ:scholar.google.com/&output=citation&scisdr=CgXS92vxEJ-CnS6LnIo:AAGBfm0AAAAAX9COhIu48pnNhvswigMZaWi-RbUNhLdJ&scisig=AAGBfm0AAAAAX9COhJ9CtWRU-vJ1hJfvVmE89X9MiRmx&scisf=4&ct=citation&cd=-1&hl=en)|
+| [Cranial Implant Prediction using Low-Resolution 3D Shape Completion and High-Resolution 
+2D Refinement](https://link.springer.com/chapter/10.1007/978-3-030-64327-0_9) | [github](https://github.com/mlentwicklung/autoimplant) | - | [BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:ChT2eYNlY4gJ:scholar.google.com/&output=citation&scisdr=CgXS92vxEIKWnS6K_vw:AAGBfm0AAAAAX9CP5v3NPnbYC3OToaRF2068ChgySeMM&scisig=AAGBfm0AAAAAX9CP5mzZRFa_qSGWsV7J1ENHz8i2RPoI&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1)|
 
 
 
-> Cranial Implant Prediction using Low-Resolution 3D Shape Completion and High-Resolution 
-2D Refinement [[paper](https://link.springer.com/chapter/10.1007/978-3-030-64327-0_9), [code](https://github.com/mlentwicklung/autoimplant)] 
-
-```
-@incollection{bayat2020cranial,
-  title={Cranial Implant Prediction using Low-Resolution 3D Shape Completion and High-Resolution 2D Refinement},
-  author={Amirhossein Bayat, Suprosanna Shit, Adrian Kilian, J¨urgen T. Liechtenstein, Jan S. Kirschke,
-  and Bjoern H. Menze},
-  booktitle={Towards the Automatization of Cranial Implant Design in Cranioplasty},
-  pages={},
-  year={2020},
-  publisher={Springer}
-}
-```
 
 
 
