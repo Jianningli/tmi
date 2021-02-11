@@ -5,7 +5,7 @@
 
 | **Proceedings** | **Editors** | **Publisher** | **Springer Link**| **Citation** | **Google Book** |
 | --------------- | --------------- | --------------- |--------------- |--------------- |--------------- |
-| **Towards the Automatization of Cranial Implant Design in Cranioplasty**| Jianning Li and Jan Egger | Springer International Publishing| [Springer Link](https://link.springer.com/book/10.1007%2F978-3-030-64327-0)|[BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:eRfYNqBzW_IJ:scholar.google.com/&output=citation&scisdr=CgXS92vxEIKWnS6UyB4:AAGBfm0AAAAAX9CR0B9eosdFjFBkQMPQ5rofKv5BPK5W&scisig=AAGBfm0AAAAAX9CR0NwPhekmGxjyN-d0iXMSgLaQR1J9&scisf=4&ct=citation&cd=-1&hl=en)|[Google Book](https://books.google.at/books/about/Towards_the_Automatization_of_Cranial_Im.html?id=KWH5zQEACAAJ&source=kp_book_description&redir_esc=y)|
+| **Towards the Automatization of Cranial Implant Design in Cranioplasty**| Jianning Li and Jan Egger | Springer International Publishing| [Springer Link](https://link.springer.com/book/10.1007%2F978-3-030-64327-0)|[BibTex](https://dl.dropboxusercontent.com/s/j2dgdfjhacd01ca/li2020towards.txt?dl=0)|[Google Book](https://books.google.at/books/about/Towards_the_Automatization_of_Cranial_Im.html?id=KWH5zQEACAAJ&source=kp_book_description&redir_esc=y)|
 
 
 | title | code | dataset | cite |
@@ -22,7 +22,7 @@
 | [Cranial Implant Prediction using Low-Resolution 3D Shape Completion and High-Resolution 2D Refinement](https://link.springer.com/chapter/10.1007/978-3-030-64327-0_9)| [github](https://github.com/mlentwicklung/autoimplant)| - | [BibTex](https://dl.dropboxusercontent.com/s/f7p61rwxrowjnca/bayat2020cranial.txt?dl=0)|
 | [Cranial Implant Design Using a Deep Learning Method with Anatomical Regularization](https://link.springer.com/chapter/10.1007/978-3-030-64327-0_10)| - | - | [BibTex](https://dl.dropboxusercontent.com/s/uq3hzu8njjgi2gz/wang2020cranial.txt?dl=0)|
 | [High-Resolution Cranial Implant Prediction via Patch-Wise Training](https://link.springer.com/chapter/10.1007/978-3-030-64327-0_11)| - | - | [BibTex](https://dl.dropboxusercontent.com/s/7yhttl3amuc5zjc/jin2020high.txt?dl=0)|
-| [Learning Volumetric Shape Super-Resolution for Cranial Implant Design](https://link.springer.com/chapter/10.1007/978-3-030-64327-0_12)| - | - | [BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:eqX2U4WRxU8J:scholar.google.com/&output=citation&scisdr=CgXS92vxEJ-CnS6RvcE:AAGBfm0AAAAAX9CUpcDUV09b5ApjwlPGiL_XYyjLXbIa&scisig=AAGBfm0AAAAAX9CUpYFmj4OLoAn4yLMlk8kF6I1cNCGw&scisf=4&ct=citation&cd=-1&hl=en)|
+| [Learning Volumetric Shape Super-Resolution for Cranial Implant Design](https://link.springer.com/chapter/10.1007/978-3-030-64327-0_12)| - | - | [BibTex](https://dl.dropboxusercontent.com/s/x6g3ypmly0lp927/eder2020learning.txt?dl=0)|
 
 
 
