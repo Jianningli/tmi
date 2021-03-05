@@ -22,7 +22,7 @@
 | [Cranial Implant Prediction using Low-Resolution 3D Shape Completion and High-Resolution 2D Refinement](https://link.springer.com/chapter/10.1007/978-3-030-64327-0_9)| [github](https://github.com/mlentwicklung/autoimplant)| n/a | [BibTex](https://dl.dropboxusercontent.com/s/f7p61rwxrowjnca/bayat2020cranial.txt?dl=0)|
 | [Cranial Implant Design Using a Deep Learning Method with Anatomical Regularization](https://link.springer.com/chapter/10.1007/978-3-030-64327-0_10)| n/a | n/a | [BibTex](https://dl.dropboxusercontent.com/s/uq3hzu8njjgi2gz/wang2020cranial.txt?dl=0)|
 | [High-Resolution Cranial Implant Prediction via Patch-Wise Training](https://link.springer.com/chapter/10.1007/978-3-030-64327-0_11)| [github](https://github.com/dyjwb001/autoimplant_vnet)| n/a | [BibTex](https://dl.dropboxusercontent.com/s/7yhttl3amuc5zjc/jin2020high.txt?dl=0)|
-| [Learning Volumetric Shape Super-Resolution for Cranial Implant Design](https://link.springer.com/chapter/10.1007/978-3-030-64327-0_12)| n/a | n/a | [BibTex](https://dl.dropboxusercontent.com/s/x6g3ypmly0lp927/eder2020learning.txt?dl=0)|
+| [Learning Volumetric Shape Super-Resolution for Cranial Implant Design](https://link.springer.com/chapter/10.1007/978-3-030-64327-0_12)| [github](https://github.com/matthiashelmuteder/Volumentric-Shape-Super-Resolution) | n/a | [BibTex](https://dl.dropboxusercontent.com/s/x6g3ypmly0lp927/eder2020learning.txt?dl=0)|
 
 
 
