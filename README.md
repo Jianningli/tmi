@@ -2,6 +2,10 @@
 | --------------- | --------------- | --------------- |--------------- |
 | **AutoImplant 2020**|  MICCAI 2020| Jianning Li and Jan Egger et al.|https://autoimplant.grand-challenge.org/| 
 
+| **Authors** | **Venue** | **Title** | **BibTex**|
+| --------------- | --------------- | --------------- |--------------- |
+| **Li, J., Pimentel, P., Szengel, A., Ehlke, M., Lamecker, H., et al**|IEEE TMI| [AutoImplant 2020 - First MICCAI Challenge on Automatic Cranial Implant Design](https://ieeexplore.ieee.org/document/9420655)|| 
+
 
 | **Proceedings** | **Editors** | **Publisher** | **Springer Link**| **Citation** | **Google Book** |
 | --------------- | --------------- | --------------- |--------------- |--------------- |--------------- |
