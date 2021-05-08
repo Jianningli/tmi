@@ -4,7 +4,7 @@
 
 | **Authors** | **Venue** | **Title** | **BibTex**|
 | --------------- | --------------- | --------------- |--------------- |
-| **Li, J., Pimentel, P., Szengel, A., Ehlke, M., Lamecker, H., et al**|IEEE TMI| [AutoImplant 2020 - First MICCAI Challenge on Automatic Cranial Implant Design](https://ieeexplore.ieee.org/document/9420655)|| 
+| **Li, J., Pimentel, P., Szengel, A., Ehlke, M., Lamecker, H., et al**|IEEE TMI| [AutoImplant 2020 - First MICCAI Challenge on Automatic Cranial Implant Design](https://ieeexplore.ieee.org/document/9420655)|[BibTex](https://dl.dropboxusercontent.com/s/yn1tpmli9zwl8kc/BibTex.txt?dl=0)| 
 
 
 | **Proceedings** | **Editors** | **Publisher** | **Springer Link**| **Citation** | **Google Book** |
